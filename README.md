@@ -45,6 +45,17 @@ This script provides a secure and user-friendly way to encrypt and decrypt text 
 +-----------------------+
 
 ```
+## How to Use:
+  # Run The Script:
+  
+  ![Screenshot 2025-01-26 231440](https://github.com/user-attachments/assets/f4d86c1d-0ebb-4022-9f59-e22ffd9d2c51)
+
+  # >For Encryption Enter 1:
+  ![Screenshot 2025-01-26 231518](https://github.com/user-attachments/assets/e31445b9-4da1-4e3d-8cff-bb2f6a97ef64)
+
+  # >For Decryption Enter 2:
+  ![Screenshot 2025-01-26 231731](https://github.com/user-attachments/assets/cf138c9b-08d1-4c44-8ff7-cc623f2b34cf)
+
 # This is an Diagram of AES Encryption AND Decryption!
 ![Encryption Diagram](https://github.com/user-attachments/assets/6e9e037f-1eae-4970-b93b-5df5eef96525)
 <img src="https://github.com/user-attachments/assets/6e9e037f-1eae-4970-b93b-5df5eef96525" alt="Encryption Diagram" width="500px">
