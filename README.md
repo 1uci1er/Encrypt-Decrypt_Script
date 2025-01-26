@@ -43,3 +43,8 @@ This script provides a secure and user-friendly way to encrypt and decrypt text 
 | 2. Decrypt Text       |
 | 3. Exit               |
 +-----------------------+
+
+```
+# This is an Diagram of AES Encryption AND Decryption!
+![Encryption Diagram](https://github.com/user-attachments/assets/6e9e037f-1eae-4970-b93b-5df5eef96525)
+)
